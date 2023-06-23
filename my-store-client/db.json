@@ -1,0 +1,107 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "brand": "Apple",
+      "price": 1499.99,
+      "description": "Powerful laptop for productivity and creativity.",
+      "image": "https://iili.io/H447lAx.md.png"
+    },
+    {
+      "id": 2,
+      "name": "Smartphone",
+      "brand": "Samsung",
+      "price": 999.99,
+      "description": "High-end smartphone with cutting-edge features.",
+      "image": "https://iili.io/H441uMQ.md.png"
+    },
+    {
+      "id": 3,
+      "name": "Smart TV",
+      "brand": "LG",
+      "price": 1499.99,
+      "description": "Large-screen smart TV with 4K resolution.",
+      "image": "https://iili.io/H44OBu2.md.png"
+    },
+    {
+      "id": 4,
+      "name": "Wireless Headphones",
+      "brand": "Sony",
+      "price": 199.99,
+      "description": "Noise-canceling wireless headphones with great sound quality.",
+      "image": "https://iili.io/H44OPN2.png"
+    },
+    {
+      "id": 5,
+      "name": "Gaming Console",
+      "brand": "Microsoft",
+      "price": 499.99,
+      "description": "Next-gen gaming console for immersive gaming experiences.",
+      "image": "https://iili.io/H44k9gs.md.png"
+    },
+    {
+      "id": 6,
+      "name": "Smart Watch",
+      "brand": "Apple",
+      "price": 299.99,
+      "description": "Feature-rich smartwatch with fitness tracking capabilities.",
+      "image": "https://iili.io/H44kRIV.png"
+    },
+    {
+      "id": 7,
+      "name": "Bluetooth Speaker",
+      "brand": "JBL",
+      "price": 79.99,
+      "description": "Portable Bluetooth speaker with excellent audio performance.",
+      "image": "https://iili.io/H44kwBt.md.png"
+    },
+    {
+      "id": 8,
+      "name": "Digital Camera",
+      "brand": "Canon",
+      "price": 699.99,
+      "description": "High-quality digital camera for professional photography.",
+      "image": "https://iili.io/H44krj2.png"
+    },
+    {
+      "id": 9,
+      "name": "External Hard Drive",
+      "brand": "Seagate",
+      "price": 129.99,
+      "description": "Portable external hard drive with large storage capacity.",
+      "image": "https://iili.io/H44kpjV.md.png"
+    },
+    {
+      "id": 10,
+      "name": "Wireless Router",
+      "brand": "Netgear",
+      "price": 89.99,
+      "description": "High-speed wireless router for a reliable internet connection.",
+      "image": "https://iili.io/H44v33g.md.png"
+    }
+  ],
+  "cart": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "price": 1499.99,
+      "image": "https://iili.io/H447lAx.md.png",
+      "quantity": 1
+    },
+    {
+      "id": 6,
+      "name": "Smart Watch",
+      "price": 299.99,
+      "image": "https://iili.io/H44kRIV.png",
+      "quantity": 0
+    },
+    {
+      "id": 7,
+      "name": "Bluetooth Speaker",
+      "price": 79.99,
+      "image": "https://iili.io/H44kwBt.md.png",
+      "quantity": 0
+    }
+  ]
+}

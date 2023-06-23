@@ -1,0 +1,25 @@
+.BenefitsComponent {
+    margin-top: 80px;
+}
+
+.skill-slider {
+    width: 100%;
+    margin: 0 auto;
+    position: relative;
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+}
+
+.benefit {
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    margin-left: 30%;
+}
+
+.red-icon {
+    margin-right: 20px;
+    color: rgb(219, 6, 6);
+}
+
