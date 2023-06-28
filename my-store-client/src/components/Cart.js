@@ -148,7 +148,7 @@ const Cart = () => {
           <PayPalScriptProvider
             options={{
               clientId:
-                "AdiNMdfhMPFOnbqAV6jXdfQicL9IrWC3wxa7mDRS2Yw4pLGlW94f40BPkVq8TUpMa5VVXGK3jZacjch8",
+                process.env.REACT_APP_PAYPAL_CLIENT_ID,
               components: "buttons",
               currency: "USD",
             }}
