@@ -2,10 +2,12 @@ const express = require("express");
 const app = express();
 const mongoose = require("mongoose");
 const cors = require('cors');
+require('dotenv').config()
 
 const Port = 1616;
 
-let cs = "mongodb+srv://drshack:Dw47AGhlJ5Gefpc7@faradyan.3ewylju.mongodb.net/my-store?retryWrites=true&w=majority";
+let cs = process.env.DATABASE_URL;
+console.log(cs);
 
 mongoose.connect(cs, {
   useNewUrlParser: true,
